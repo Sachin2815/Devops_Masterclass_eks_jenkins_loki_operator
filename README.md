@@ -1,4 +1,4 @@
-1. AWS cloud
+1. AWS cloud Setup
 https://aws.amazon.com/
 
 2. New User / Account: IAM
